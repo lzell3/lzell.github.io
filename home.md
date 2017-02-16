@@ -1,3 +1,8 @@
+---
+My Website
+
+---
+
 #Logan Zell
 
 Welcome to my website! It contains information about myself as well as some of the projects I'm working on.
